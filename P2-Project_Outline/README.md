@@ -7,9 +7,9 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Understanding family heritage is important, but often the history of a family is saved between different family members, various documents, or family artifacts. Rarely are these seperate sources achrived correctly or saved in a way that lives on past the members of the family. 
+Understanding family heritage is important, but often the history of a family is saved between different family members, various documents, or family artifacts. Rarely are these separate sources archived correctly or saved in a way that lives on past the members of the family. 
 
-Our family Tree app seeks to help users document their family trees, but also store cherished memories of those loved ones. Users will be able to learn about their family heritage as well, and add what they see missing. The app will also have a forum to comment on aspects of the family tree.
+Our family Tree app seeks to help users document their family trees, but also store cherished memories of those loved ones. Users will be able to learn about their family heritage, and add what see missing. The app will also have a forum to comment on aspects of the family tree.
 
 ### Features
 - **Family Tree Database and UI**: The site will include a family tree UI connecting all members of the family together.
