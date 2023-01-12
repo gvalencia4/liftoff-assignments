@@ -17,8 +17,16 @@ Our family Tree app seeks to help users document their family trees, but also st
 - **Website Forum**: Users will have a place to discuss recent edits to the family tree.
 
 ### Technologies
-Include Technologies here
+- Java
+- JavaScript
+- Spring Boot
+- MySQL
+- Hibernate
+- Thymeleaf templates
+- D3
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+In order to build this app, there are a few new technologies we will need to learn in addition to building on our skills in Java, JavaScript, MySQL, git, and others. One of the new technologies is D3, an API for modifying the document that will display the family tree. We will also need to figure out the best technologies for authentication of users and how to build a forum on the web.
+
 ### Project Tracker
-Link to your Trello board here
+[Link to the Family Tree Trello board here](https://trello.com/invite/b/4YeLWqGq/ATTI1b74ecab932970eb856649da25d1104653993F90/family-tree)
